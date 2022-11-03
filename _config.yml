@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  CV: 
+   CV: 
     - General info: "cv_info"
     - Publications: "cv_papers"
     - List of courses: "cv_teaching"

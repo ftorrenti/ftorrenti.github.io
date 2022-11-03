@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   CV: 
     - General info: "cv_info"
-    - Publications: "cv_research"
+    - Publications: "cv_papers"
     - List of courses: "cv_teaching"
 
    Research:

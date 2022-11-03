@@ -1,5 +1,7 @@
 ## List of publications:
 
+An updated list of my scientific publications can be found at my *<a href="https://inspirehep.net/authors/1274773?ui-citation-summary=true" target="_blank" rel="noopener noreferrer">INSPIRE-HEP profile</a>*.
+
 - "Characterizing the post-inflationary reheating history, Part II: Multiple interacting daughter fields". \
   Stefan Antusch, Kenneth Marschall, Francisco Torrenti \
   arXiv: <a href="https://arxiv.org/abs/2206.06319" target="_blank" rel="noopener noreferrer">2206.06319</a>

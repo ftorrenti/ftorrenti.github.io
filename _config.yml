@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Paco Torrenti
+title: Paco Torrenti's website
 
 # Your name to show in the footer
 author: Francisco Torrenti
@@ -23,16 +23,18 @@ navbar-links:
    About me: "aboutme"
    
    Research: 
-   - Publications: "papers"
+   - Research lines: "researchlines"
+   - My publications: "papers"
    - Selected talks: "talks"
    
    Teaching:
-   - List of courses: "courses"
-   - Cosmology course: "cosmo_course"
-   - CosmoLattice school: "cl_school"
+   - My teaching: "courses"
+   - Theoretical cosmology MSc course: "cosmo_course"
+   - CosmoLattice school material: "cl_school"
    
    Software:
    - CosmoLattice: "cosmolattice"
+   - Oscillon profiler: "oscillonprofiler" 
     
 
 
@@ -156,7 +158,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#000000"
 footer-text-col: "#ffffff"
-footer-link-col: "#404040"
+footer-link-col: "#ffffff"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image

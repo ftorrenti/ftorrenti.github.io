@@ -1,8 +1,10 @@
 ---
 layout: home
-title: Paco Torrenti's website
+#title: Paco Torrenti's website
 #subtitle: None
 ---
+
+<h2>Paco Torrenti's website</h2>
 
 <p align="center">
   <img src="./assets/img/myphoto.jpg" width="500"

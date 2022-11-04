@@ -22,14 +22,14 @@ author: Francisco Torrenti
 navbar-links:
    About me: "aboutme"
    
-   Research: 
+    Research: 
    - Research lines: "researchlines"
    - Publications: "papers"
-   - Selected talks: "talks"
+   - Talks and seminars: "talks"
    
    Teaching:
-   - My teaching: "courses"
-   - Theoretical cosmology MSc course: "cosmo_course"
+   - Courses and students: "courses"
+   - Theoretical cosmology course: "cosmo_course"
    - CosmoLattice school material: "cl_school"
    
    Software:

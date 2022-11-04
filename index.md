@@ -4,7 +4,7 @@ layout: home
 #subtitle: None
 ---
 
-<p align="center"><h2>Paco Torrenti's website</h2></p>
+<h1 style="text-align:center;">Paco Torrenti's website</h1>
 
 <p align="center">
   <img src="./assets/img/myphoto.jpg" width="500"

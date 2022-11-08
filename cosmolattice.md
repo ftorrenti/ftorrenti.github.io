@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CosmoLattice
+subtitle: A code for lattice simulations of the non-linear field dynamics of the early universe
 ---
 
 <h1 style="text-align:center;"></h1>

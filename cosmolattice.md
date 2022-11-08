@@ -3,10 +3,10 @@ layout: page
 title: CosmoLattice
 ---
 
-<h1 style="text-align:center;">CL_Sequence.png</h1>
+<h1 style="text-align:center;"></h1>
 
 <p align="center">
-  <img src="./assets/img/myphoto.jpg" width="400"
+  <img src="./assets/img/CL_Sequence.png" width="400"
  />
 </p>
 

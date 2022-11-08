@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: OsciLife
+subtitle: A code for 1+1-dimensional simulations of oscillons
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+OsciLife is a simple C++ code that simulates the evolution of oscillons in one spatial dimension, and outputs relevant quantities like the profile or the energy distribution. 
+The user only needs to specify the field potential and its derivative.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The initial distribution of the oscillon can be specified as a radial function or read it from a text file. The boundary conditions
+are dealt with a truncation function that subtracts the field waves as they approach the boundary, see <a href="https://arxiv.org/pdf/1907.00611.pdf" target="_blank" rel="noopener noreferrer">JCAP 1910 (2019) no.10, 002</a>
+for more details. The code is also parallelized with OpenMP, in case you have super long-lived oscillons!
 
-What else do you need?
+I plan to release the code publicly in the future, but feel free to contact me if you want to use it in your research.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

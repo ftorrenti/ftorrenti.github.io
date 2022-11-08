@@ -6,7 +6,7 @@ title: CosmoLattice
 <h1 style="text-align:center;"></h1>
 
 <p align="center">
-  <img src="./assets/img/CL_Sequence.png" width="400"
+  <img src="../assets/img/CL_Sequence.png" width="400"
  />
 </p>
 
@@ -26,7 +26,7 @@ Documentation also includes an extensive user manual (long version in arXiv: 210
 More information can be found at the <a href="http://www.cosmolattice.net" target="_blank" rel="noopener noreferrer">CosmoLattice website</a>
 
 <p align="center">
-  <img src="./assets/img/YETIphoto.jpeg" width="400"
+  <img src="../assets/img/YETIphoto.jpeg" width="400"
  />
 </p>
 **Me, giving a workshop on CosmoLattice at YETI 2022, Durham**

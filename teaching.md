@@ -10,28 +10,20 @@ Here I provide a summary of my teaching tasks during my career:
 
 - **Calculus II** (U. Valencia) - Winter 2023. <br>
 Theory. 1st year UG course. ~45 hours.
-
 - **Laboratory of Quantum Physics** (U. Valencia) - Autumn 2022. <br>
 Laboratory. 3rd year UG course  ~15 hours.
-
 - **Quantum Field Theory** (U. Basel) - Spring 2022. <br>
 Exercises. 4th year UG course. ~10 hours.
-
 - **Mechanics** (U. Basel) - Autumn 2021. <br>
 Exercises. 2nd year UG course.  ~5 hours.
-
 - **Theoretical Cosmology** (U. Basel) - Spring 2021. <br>
 Theory. MSc course.  ~30 hours.
-
 - **Theoretical Cosmology** (U. Basel) - Autumn 2019. <br>
 Theory. MSc course.  ~30 hours.
-
 - **Mechanics** (U. Basel) - Autumn 2018. <br>
 Exercises. 2nd year UG course.  ~8 hours.
-
 - **Astrophysics and Cosmology** (Autonomous U. Madrid) - Winter 2016. <br>
 Exercises. 4th year UG course.  ~10 hours.
-
 - **Astrophysics and Cosmology** (Autonomous U. Madrid) - Winter 2015. <br>
 Exercises. 4th year UG course.  ~10 hours.
 

@@ -14,7 +14,7 @@ the University of Basel (in Autumn 2019 and Spring 2021). The lectures were heav
 [[pdf]]({{ site.url }}{{ site.baseurl }}/assets/cosmo_course/typosandcorrections-1.pdf){:target="_blank"}  
 
 ## Exercise sheets 
-The exercise sheets were worked out *together with Ken Marschall.
+Note: The exercise sheets were worked out **together with Ken Marschall**.
 
 - Exercise sheet 1 - Geometry and dynamics of the universe
 [[pdf]]({{ site.url }}{{ site.baseurl }}/assets/cosmo_course/exercise-01-1.pdf){:target="_blank"}  

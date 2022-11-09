@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My teaching
-subtitle: Courses, supervised students and PhD schools
+subtitle: Courses, students and schools
 ---
 
 Here I provide a summary of my teaching tasks during my career:

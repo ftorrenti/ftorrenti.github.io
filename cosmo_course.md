@@ -1,6 +1,6 @@
 Here I provide the teaching material of my Theoretical Cosmology MSc course, which I organized and gave twice at
 the University of Basel (in Autumn 2019 and Spring 2021). The lectures were heavily based on the excellent 
-<a href="http://cosmology.amsterdam/education/cosmology/" target="_blank" rel="noopener noreferrer>Baumann's cosmology lecture notes</a>.
+<a href="http://cosmology.amsterdam/education/cosmology/" target="_blank" rel="noopener noreferrer">Baumann's cosmology lecture notes</a>.
 
 
 ## Introductory slides

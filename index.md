@@ -12,9 +12,9 @@ layout: home
 </p>
 
 Welcome to my website! My name is Francisco Torrenti (akas Paco Torrenti), and I am currently 
-a "Maria Zambrano" postdoctoral fellow at <a href="https://www.uv.es/fisteo">U. Valencia</a> and <a href="http://ific.uv.es" target="_blank" rel="noopener noreferrer">IFIC</a>. 
-Previously, I have been a postdoctoral researcher at <a href="https://particlesandcosmology.physik.unibas.ch/en/">U. Basel</a>, 
-and a PhD candidate at <a href="https://www.ift.uam-csic.es/">IFT, Madrid</a>.
+a "Maria Zambrano" postdoctoral fellow at <a href="https://www.uv.es/fisteo" target="_blank" rel="noopener noreferrer">U. Valencia</a> and <a href="http://ific.uv.es" target="_blank" rel="noopener noreferrer">IFIC</a>. 
+Previously, I have been a postdoctoral researcher at <a href="https://particlesandcosmology.physik.unibas.ch/en/" target="_blank" rel="noopener noreferrer">U. Basel</a>, 
+and a PhD candidate at <a href="https://www.ift.uam-csic.es/" target="_blank" rel="noopener noreferrer">IFT, Madrid</a>.
 
 My research is focused on the **interface between cosmology and fundamental physics**.
 My main objective is to understand better what happened during the first instants of the universe,

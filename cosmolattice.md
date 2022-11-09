@@ -30,4 +30,4 @@ More information can be found at the <a href="http://www.cosmolattice.net" targe
   <img src="../assets/img/YETIfoto.jpeg" width="400"
  />
 </p>
-**Me, giving a workshop on CosmoLattice at YETI 2022, Durham**
+<p align="center">*Me, giving a workshop on CosmoLattice at YETI 2022, Durham*</p>

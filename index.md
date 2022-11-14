@@ -19,6 +19,6 @@ and a PhD candidate at <a href="https://www.ift.uam-csic.es/" target="_blank" re
 My research is focused on the **interface between cosmology and fundamental physics**.
 My main objective is to understand better what happened during the first instants of the universe,
 and its connection with high energy physics models and potential observational signatures. 
-I am also a main developer of **<a href="https://www.cosmolattice.net">CosmoLattice</a>**, a code for lattice simulations of non-linear field dynamics in an expanding universe
+I am also a main developer of **<a href="https://www.cosmolattice.net" target="_blank" rel="noopener noreferrer">CosmoLattice</a>**, a code for lattice simulations of non-linear field dynamics in an expanding universe
 
 You can learn a bit more about **my research, my teaching and my software** by using the links above.

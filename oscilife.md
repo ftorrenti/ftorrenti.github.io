@@ -11,5 +11,5 @@ The initial distribution of the oscillon can be specified as a radial function o
 are dealt with a truncation function that subtracts the field waves as they approach the boundary, see <a href="https://arxiv.org/pdf/1907.00611.pdf" target="_blank" rel="noopener noreferrer">JCAP 1910 (2019) no.10, 002</a>
 for more details. The code is also parallelized with OpenMP, in case you have super long-lived oscillons!
 
-I plan to release the code publicly in the future, but feel free to contact me if you want to use it in your research.
+I plan to release the code publicly in the future.
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: CosmoLattice School Material
-subtitle: A code for lattice simulations of the non-linear field dynamics of the early universe
 ---
 
-Here I provide my presentation slides for my lectures at the CosmoLattice School 2022, which took place at 
+Here I provide the presentation slides of my lectures at the <a href="https://indico.ific.uv.es/event/6631/" target="_blank" rel="noopener noreferrer">CosmoLattice School 2022</a>, which took place at 
 Valencia on September 2022:
 
 - **Introduction to Inflation and post-inflationary dynamics**

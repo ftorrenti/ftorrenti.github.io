@@ -11,8 +11,8 @@ subtitle: A code for lattice simulations of the non-linear field dynamics of the
  />
 </p>
 
-I am one of the main developers of **<a href="http://www.cosmolattice.net" target="_blank" rel="noopener noreferrer">CosmoLattice</a>**: a publicly available code for **lattice simulations of non-linear field dynamics in the early universe**.
-The current version of the code can simulate scalar fields, Abelian and non-Abelian gauge fields, and gravitational waves (tensor perturbations) in an expanding universe
+I am one of the main developers of **<a href="http://www.cosmolattice.net" target="_blank" rel="noopener noreferrer">CosmoLattice</a>**: a publicly available code for **lattice simulations of non-linear field dynamics in the early universe** [main developers include
+D. Figueroa, A. Florio, F. Torrenti and W. Valkenburg]. The current version of the code can simulate scalar fields, Abelian and non-Abelian gauge fields, and gravitational waves (tensor perturbations) in an expanding universe
 (either self-consistently via the Friedmann equations or for a fixed equation of state).
 
 The code is currently being used by different research groups around the globe. An updated list of papers that have used CosmoLattice can be found at <a href="http://https://cosmolattice.net/publications/" target="_blank" rel="noopener noreferrer">here</a>.

@@ -14,11 +14,9 @@ in an expanding universe.</b>
 <h2>Career summary:</h2>
 
 I graduated in Physics at the U. of Valencia (2008 – 2012), spending one year at Imperial College London with an Erasmus grant 
-(2011-2012). I was awarded a National End-of-Degree Award by the Ministry of Education (2nd prize). 
-Later, I enrolled in the MSc in Advanced Physics at the U. Valencia (2012 – 2013). 
+(2011 - 2012). Later, I enrolled in the MSc in Advanced Physics at the U. Valencia (2012 – 2013). 
 I carried out my PhD studies at the Institute of Theoretical Physics UAM/CSIC with support from a 
-Severo Ochoa PhD fellowship (02/2014 – 09/18). My PhD thesis “Aspects of preheating and Higgs cosmology” 
-was supervised by Juan Garcia-Bellido and Daniel G. Figueroa. During my PhD I did several long-term 
+Severo Ochoa PhD fellowship (02/2014 – 09/18). During my PhD I did several long-term 
 visits to other research institutions, funded by the short stays program of the Spanish government: 
 CERN (04/15 – 08/15), Imperial College London (04/16 – 07/16), and EPFL Lausanne (09/17 – 12/17).
 
@@ -33,7 +31,7 @@ competitive fellowship from the “Research Funds for excellent junior researche
 My research lies on the interplay between cosmology and particle physics. My main objective is to improve our knowledge of 
 the early universe and connect it to particle physics models and potential observational signatures. As of November 2022, 
 I have published 16 articles in peer-reviewed scientific journals such as <i>PLB</i>, <i>PRD</i>, <i>JCAP</i> and <i>CPC</i>. You can find a full 
-updated list of my publications at my <a href="https://inspirehep.net/authors/1274773" target="_blank" rel="noopener noreferrer">Inspire-HEP profile</a> [LINK a ].
+updated list of my publications at my <a href="https://inspirehep.net/authors/1274773" target="_blank" rel="noopener noreferrer">Inspire-HEP profile</a>.
 I have a wide expertise with numerical simulations of the early universe. I am one of the main developers of CosmoLattice, 
 a parallelized code for lattice simulations of classical scalar-gauge field theories in an expanding universe, 
 publicly available at <a href="http://www.cosmolattice.net" target="_blank" rel="noopener noreferrer">www.cosmolattice.net</a>. I am also a co-author of “The art of simulating the early Universe”,

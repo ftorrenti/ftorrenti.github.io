@@ -27,5 +27,5 @@ More information can be found at the <a href="http://www.cosmolattice.net" targe
 
 <p align="center">
   <img src="../assets/img/YETIfoto.jpeg" width="400"
- />
+ /> <br>
 <i>Giving a workshop on CosmoLattice at YETI 2022, Durham</i></p>

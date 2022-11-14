@@ -20,7 +20,7 @@ author: Francisco Torrenti
 ###############################################
 
 navbar-links:
-#  About me: "aboutme"
+   About me: "aboutme"
    
    Research: 
    - Research lines: "researchlines"

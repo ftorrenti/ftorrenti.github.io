@@ -43,6 +43,7 @@ Exercises. 4th year UG course.  ~10 hours.
 <h4> Master students:</h4>
 - Samuel Monín Darriba (2022-23)
 - Arturo Núñez Anaya (2022-23)
+- Katarina Trailovic (2022-23)
 
 ## Lecturer at PhD schools:
 

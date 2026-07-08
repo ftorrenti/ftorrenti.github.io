@@ -3,23 +3,33 @@ layout: page
 title: Publications
 ---
 
-***PUBLICATIONS IN JOURNALS***
+### Publications in peer-reviewed journals:<br><br> 
 
 <ol>
-<li value="22">
+<li value="24">
+<b>The art of simulating the early Universe. Part II. Non-canonical cases & gravitational waves</b>.<br>
+  J. Baeza-Ballesteros, D. Figueroa, A. Florio, J. Lizarraga, N. Loayza, K. Marschall, T. Opferkuch, B.A. Stefanek, F. Torrenti, A Urio. <br>
+  <i>JCAP 06 (2026) 087</i>. arXiv: <a href="https://arxiv.org/abs/2512.15627" target="_blank" rel="noopener noreferrer">2512.15627</a><br><br>
+
+<li value="23">
 <b>Equation of state during (p)reheating with trilinear interactions</b>.<br>
   S. Antusch, K. Marschall, F. Torrenti. <br>
-  <i>Accepted in JCAP (2025)</i>. arXiv: <a href="https://arxiv.org/abs/2507.13465" target="_blank" rel="noopener noreferrer">2507.13465</a><br><br>
+  <i>JCAP 11 (2025) 002</i>. arXiv: <a href="https://arxiv.org/abs/2507.13465" target="_blank" rel="noopener noreferrer">2507.13465</a><br><br>
 
-<li value="21">
-<b>The Spectrum of Gravitational Waves from Annihilating Domain Walls</b>.<br>
+<li value="22">
+<b>The spectrum of Gravitational Waves from annihilating domain walls</b>.<br>
   A. Notari, F. Rompineve, F. Torrenti. <br>
   <i>JCAP 07 (2025) 049</i>. arXiv: <a href="https://arxiv.org/abs/2504.03636" target="_blank" rel="noopener noreferrer">2504.03636</a><br><br>
 
-<li value="20">
+<li value="21">
 <b>Ephemeral Oscillons in Scalar-Tensor Theories: The Higgs-like case</b>.<br>
   M. Piani, J. Rubio, F. Torrenti. <br>
   <i>JCAP 06 (2025) 024</i>. arXiv: <a href="https://arxiv.org/abs/2501.14869" target="_blank" rel="noopener noreferrer">2501.14869</a><br><br>
+
+<li value="20">
+<b>Challenges and opportunities of gravitational-wave searches above 10 kHz</b>.<br>
+  N. Aggarwal et al. <br>
+  <i>Living Rev.Rel. 28 (2025) 1, 10</i>. arXiv: <a href="https://arxiv.org/abs/2501.11723" target="_blank" rel="noopener noreferrer">2501.11723</a><br><br>
 
 <li value="19">
 <b>Present and future of CosmoLattice</b>.<br>
